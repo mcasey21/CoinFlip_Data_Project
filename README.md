@@ -10,6 +10,6 @@ The analytics mode is the star of the show here. It follows 2 strats to see whic
 To check which strat works better 2 graphs are made using matplotlib
 The graphs show the amount of wins, losses and draws after 100 tries
 
-![Tails strat](tailsGraph.png)
-![Random strat](randomGraph.png)
+![Tails strat](tailsStrat.png)
+![Random strat](randomStrat.png)
 
